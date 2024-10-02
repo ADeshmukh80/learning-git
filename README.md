@@ -4,6 +4,8 @@
 
 first commit
 
-## Education 
+## Education
+
+Polytechnic from KPCYP
 
 B.tech from GHRCEM
