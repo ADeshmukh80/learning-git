@@ -3,3 +3,7 @@
 
 
 first commit
+
+## Education 
+
+B.tech from GHRCEM
